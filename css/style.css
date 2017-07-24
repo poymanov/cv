@@ -8,4 +8,12 @@
 
 .info-block-header {
   cursor: pointer;
+  padding-left: 35px;
+  background-image: url("../img/arrow-down.png");
+  background-repeat: no-repeat;
+  background-position: center left;
+}
+
+.info-block-header-active {
+  background-image: url("../img/arrow-top.png");
 }
